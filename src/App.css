@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+}
+
+.navbar {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+}
+
+.navbar-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar-item {
+  margin-right: 20px;
+}
+
+.content {
+  text-align: center;
+  padding: 20px;
+}
+
+.numbered-list {
+  list-style: decimal; /* Mengatur nomor urut menjadi angka desimal */
+  padding: 0;
+}
